@@ -10,10 +10,10 @@
 
 <img align="right" alt="Coding" width="350" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
-- 🌱 I’m currently learning **Material UI**
+- 🌱 I’m currently learning **Next js and Typescript**
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- 💬 Ask me about :MongoDB, ExpressJS, NodeJS, Reactjs, Tailwind CSS
+- 🥅 2023 Goals: Contribute more to Open Source projects
+- 💬 Ask me about : Typescript, Next js, MongoDB, ExpressJS, NodeJS, Reactjs, Tailwind CSS
 - 👨‍💻 All of my projects are available at [Portfolio][website]
 - 📫 Reach me at **abikmushyakho9@gmail.com**
 - ⚡ Fun fact: I love to travel because it takes me out of my comfort zone and I am always learning something new about myself and about that place each day I'm there.
