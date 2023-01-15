@@ -10,28 +10,29 @@
 
 <img align="right" alt="Coding" width="350" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
-- 🌱 I’m currently learning **Next js and Typescript**
+- 🌱 I’m currently learning **Typescript and Next js**
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects
-- 💬 Ask me about : Typescript, Next js, MongoDB, ExpressJS, NodeJS, Reactjs, Tailwind CSS
-- 👨‍💻 All of my projects are available at [Portfolio][website]
+- 💬 Ask me about :  Tailwind CSS, Typescript, Nextjs, Reactjs, Redux, ReactQuery,  NodeJS and MongoDB 
+<!-- - 👨‍💻 All of my projects are available at [Portfolio][website] -->
+- 👨‍💻 My Professional [Portfolio][website]
 - 📫 Reach me at **abikmushyakho9@gmail.com**
 - ⚡ Fun fact: I love to travel because it takes me out of my comfort zone and I am always learning something new about myself and about that place each day I'm there.
 
 ## 📫 Connect with me:
-<a href="mailto:abikmushyakho9@gmail.com" target="blank">
+<a href="mailto:abikmushyakho9@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a> 
-<a href="https://linkedin.com/in/abik-mushyakho-3a4149184" target="blank">
+<a href="https://linkedin.com/in/abik-mushyakho-3a4149184" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://fb.com/abik.mushyakho" target="blank">
+<a href="https://fb.com/abik.mushyakho" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
-<a href="https://twitter.com/abik_mushyakho" target="blank">
+<a href="https://twitter.com/abik_mushyakho" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a> 
-<a href="https://stackoverflow.com/users/20320426" target="blank">
+<a href="https://stackoverflow.com/users/20320426" target="_blank">
   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
 </a>
 
@@ -60,10 +61,10 @@
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+<!-- ![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) -->
 
 <!-- ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
@@ -73,11 +74,11 @@
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abikmushyakho&show_icons=true&locale=en&layout=compact" alt="abikmushyakho"/></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abikmushyakho&show_icons=true&locale=en&layout=compact" alt="abikmushyakho"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abikmushyakho&show_icons=true&locale=en" alt="abikmushyakho" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abikmushyakho&" alt="abikmushyakho"  /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abikmushyakho&" alt="abikmushyakho"  /></p> -->
 
 
 ---
