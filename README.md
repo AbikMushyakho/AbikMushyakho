@@ -6,7 +6,7 @@
 [![](https://komarev.com/ghpvc/?username=AbikMushyakho&style=for-the-badge)][github]
 [![Followers](https://img.shields.io/github/followers/abikmushyakho?color=1DA1F2&logo=github&style=for-the-badge)][github]
 
-# I'm a student and web developer from Nepal!
+# I'm a front-end web developer from Nepal!
 
 <img align="right" alt="Coding" width="350" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
