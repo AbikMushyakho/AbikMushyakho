@@ -41,10 +41,11 @@
 
 # Languages and Tools:
 
-<p align="center">
+<p align="start">
 <a href="#">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,ts,tailwind" />
-  <img src="https://skillicons.dev/icons?i=,git,vscode,nginx,firebase,,azure,bash,linux,cloudflare,vite,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,ts,tailwind,nodejs" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=git,vscode,nginx,azure,linux,cloudflare,postman" />
 </a>
 </p>
 <br/>
